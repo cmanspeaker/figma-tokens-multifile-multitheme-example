@@ -69,7 +69,7 @@
       "type": "spacing"
     },
     "128": {
-      "value": "{spacer.8} *16",
+      "value": "{size.8} *16",
       "type": "spacing"
     }
   }
