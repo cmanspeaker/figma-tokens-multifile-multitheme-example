@@ -1,31 +1,27 @@
 {
   "radii": {
-    "0": {
-      "value": "0px",
-      "type": "borderRadius"
-    },
-    "1": {
-      "value": "3px",
-      "type": "borderRadius"
-    },
-    "2": {
-      "value": "6px",
-      "type": "borderRadius"
-    },
-    "3": {
-      "value": "8px",
-      "type": "borderRadius"
-    },
     "4": {
-      "value": "16px",
+      "value": "4",
       "type": "borderRadius"
     },
-    "5": {
-      "value": "32px",
+    "8": {
+      "value": "8",
       "type": "borderRadius"
     },
-    "6": {
-      "value": "999999px",
+    "16": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "24": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "circle": {
+      "value": "50",
+      "type": "borderRadius"
+    },
+    "pill": {
+      "value": "999",
       "type": "borderRadius"
     }
   }
